@@ -1,0 +1,18 @@
+body {
+            background-color: rgb(146, 146, 199);
+        }
+img {
+    margin: auto;
+    cursor: pointer;
+    transition: 2s;
+}
+img:hover {
+    transform: scale(1.1);
+    transition: 2s;
+}
+div{
+    width: 60%;
+    }
+#telefono {
+    color: blue;
+}
